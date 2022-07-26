@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-05T08:47:45Z" name="Default suite" finished-at="2022-06-05T08:47:53Z" duration-ms="8570">
+  <suite started-at="2022-07-26T16:17:00Z" name="Default suite" finished-at="2022-07-26T16:17:42Z" duration-ms="41808">
     <groups>
     </groups>
-    <test started-at="2022-06-05T08:47:45Z" name="Default test" finished-at="2022-06-05T08:47:53Z" duration-ms="8570">
-      <class name="webdriver.Topic_02_Selenium_By">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:webdriver.Topic_02_Selenium_By@62ddbd7e]" started-at="2022-06-05T08:47:45Z" name="beforeClass" finished-at="2022-06-05T08:47:48Z" duration-ms="3029" status="PASS">
+    <test started-at="2022-07-26T16:17:00Z" name="Default test" finished-at="2022-07-26T16:17:42Z" duration-ms="41808">
+      <class name="webdriver.Topic_06_Textbox_TextArea">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:webdriver.Topic_06_Textbox_TextArea@55fe41ea]" started-at="2022-07-26T16:17:00Z" name="beforeClass" finished-at="2022-07-26T16:17:04Z" duration-ms="4099" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_()[pri:0, instance:webdriver.Topic_02_Selenium_By@62ddbd7e]" started-at="2022-06-05T08:47:48Z" name="TC_01_" finished-at="2022-06-05T08:47:52Z" duration-ms="4690" status="PASS">
+        <test-method signature="TC_01_Textbox_TextArea()[pri:0, instance:webdriver.Topic_06_Textbox_TextArea@55fe41ea]" started-at="2022-07-26T16:17:04Z" name="TC_01_Textbox_TextArea" finished-at="2022-07-26T16:17:38Z" duration-ms="33453" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01_ -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:webdriver.Topic_02_Selenium_By@62ddbd7e]" started-at="2022-06-05T08:47:52Z" name="afterClass" finished-at="2022-06-05T08:47:53Z" duration-ms="833" status="PASS">
+        </test-method> <!-- TC_01_Textbox_TextArea -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:webdriver.Topic_06_Textbox_TextArea@55fe41ea]" started-at="2022-07-26T16:17:38Z" name="afterClass" finished-at="2022-07-26T16:17:42Z" duration-ms="4233" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- webdriver.Topic_02_Selenium_By -->
+      </class> <!-- webdriver.Topic_06_Textbox_TextArea -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
